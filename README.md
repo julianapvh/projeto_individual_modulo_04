@@ -61,7 +61,7 @@ Com base na análise dos dados, podemos observar que a equipe de desenvolvimento
 
 ## Notebook
 
-Para acessar o notebook com o código utilizado para a análise, consulte [projeto_individual.ipynb](/projeto_individual.ipynb)).
+Para acessar o notebook com o código utilizado para a análise, consulte [projeto_individual.ipynb](/projeto_individual.ipynb))
 
 
 
