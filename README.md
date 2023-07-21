@@ -60,5 +60,8 @@ Com base na análise dos dados, podemos observar que a equipe de desenvolvimento
 
 Para acessar o notebook com o código utilizado para a análise, consulte [projeto_individual.ipynb](/projeto_individual.ipynb))
 
+##Aviso
+Para executar o código no Google Colab, é necessário baixar o arquivo Relatorio.csv e colocá-lo na pasta correta para carregar os dados corretamente.
+
 
 
