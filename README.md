@@ -1,6 +1,5 @@
 # projeto_individual_modulo_04
 
-[projeto_individual.ipynb](/projeto_individual.ipynb)
 
 
 
@@ -62,9 +61,7 @@ Com base na análise dos dados, podemos observar que a equipe de desenvolvimento
 
 ## Notebook
 
-Para acessar o notebook com o código utilizado para a análise, consulte [notebook.ipynb](notebook.ipynb).
+Para acessar o notebook com o código utilizado para a análise, consulte [projeto_individual.ipynb](/projeto_individual.ipynb)).
 
-## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
