@@ -17,7 +17,7 @@
 
 Este é o repositório do projeto de análise de progresso diário de uma empresa de desenvolvimento de softwares. O objetivo deste relatório é demonstrar a importância da análise dos dados de um projeto ao longo de uma semana, fornecendo insights sobre o progresso do projeto, identificando áreas de melhoria e tomando decisões informadas para garantir o sucesso do mesmo.
 
-## <font color = orange> Dados
+## <font color = orange>Dados
 
 A tabela abaixo apresenta os dados diários de horas trabalhadas, bugs corrigidos e tarefas concluídas:
 
