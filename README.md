@@ -13,7 +13,7 @@
 
 
 
-# Relatório de Progresso Diário - Desenvolvimento de Software
+# <font color = orange> Relatório de Progresso Diário - Desenvolvimento de Software
 
 Este é o repositório do projeto de análise de progresso diário de uma empresa de desenvolvimento de softwares. O objetivo deste relatório é demonstrar a importância da análise dos dados de um projeto ao longo de uma semana, fornecendo insights sobre o progresso do projeto, identificando áreas de melhoria e tomando decisões informadas para garantir o sucesso do mesmo.
 
@@ -49,7 +49,7 @@ A média diária de horas trabalhadas foi de 6.14 horas.
 
 Foram corrigidos um total de 16 bugs ao longo da semana.
 
-### Média Diária de Bugs Corrigidos
+###Média Diária de Bugs Corrigidos
 
 A média diária de bugs corrigidos foi de 2.29 bugs.
 
@@ -57,7 +57,7 @@ A média diária de bugs corrigidos foi de 2.29 bugs.
 
 Um total de 29 tarefas foram concluídas durante a semana.
 
-### Média Diária de Tarefas Concluídas
+###Média Diária de Tarefas Concluídas
 
 A média diária de tarefas concluídas foi de 4.14 tarefas.
 
@@ -73,9 +73,6 @@ Com base na análise dos dados, podemos observar que a equipe de desenvolvimento
 
 Para acessar o notebook com o código utilizado para a análise, consulte [projeto_individual.ipynb](/projeto_individual.ipynb))
 
-## Aviso
-
-Para executar o código no Google Colab, é necessário baixar o arquivo Relatorio.csv e colocá-lo na pasta correta para carregar os dados corretamente.
 
 
 
