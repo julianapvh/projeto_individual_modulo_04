@@ -63,7 +63,7 @@ A média diária de tarefas concluídas foi de 4.14 tarefas.
 
 ### Produtividade Diária
 
-A produtividade diária, medida pelo número de tarefas concluídas por hora, foi de 0.096 tarefas por hora.
+A produtividade diária, medida pelo número de tarefas concluídas por hora, foi de 0.66 tarefas por hora.
 
 ## Insights
 
